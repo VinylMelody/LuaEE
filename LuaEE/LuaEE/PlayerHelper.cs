@@ -5,9 +5,6 @@
 // I'll consider using Proc's FutureProof addon incase I leave EE
 using System;
 using System.Linq;
-using Melody.Helper;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using PlayerIOClient;
 
 namespace Melody.EEHelper
@@ -22,9 +19,6 @@ namespace Melody.EEHelper
 			if(w.StartsWith("BW"))
 				return "Beta";
 			return null;
-		}
-		public static void SendMultiple(this Connection c, Message[] msgs) {
-			MelodyHelp.ForEach(msgs, x => c.Send(x));
 		}
 	}
 	public class EEHelp

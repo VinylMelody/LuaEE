@@ -1,10 +1,1 @@
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\obj\Debug\LuaEE.csprojResolveAssemblyReference.cache
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\LuaEE.exe.config
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\LuaEE.exe
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\LuaEE.pdb
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\KeraLua.dll
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\NLua.dll
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\PlayerIOClient.dll
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\bin\Debug\PlayerIOClient.xml
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\obj\Debug\LuaEE.exe
-C:\Users\Ronnie\Desktop\Temporary\MelBak\CSharp Stuffs\LuaEE\LuaEE\obj\Debug\LuaEE.pdb
+D:\Github\LuaEE\LuaEE\LuaEE\bin\Debug\LuaEE.exe.config
